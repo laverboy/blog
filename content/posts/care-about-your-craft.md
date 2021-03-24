@@ -9,6 +9,8 @@ I recently re-discovered "The Pragmatic Programmer". I remember reading this as 
 
 I thought I might go through the first handful of 'tips' (there are 70 in total) and eek out my thoughts around them and see if there are some new things to learn or to re-learn.
 
+------
+
 So tip 1:
 
 > Care about your craft. Why spend your life developing software unless you care about doing it well?
