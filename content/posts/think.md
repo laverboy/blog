@@ -1,7 +1,7 @@
 ---
 title: "Think! About Your Work"
 date: 2021-03-24T08:38:21Z
-draft: true
+draft: false
 ---
 
 I recently re-discovered "The Pragmatic Programmer". I remember reading this as an early software engineer and being really motivated to step up my game. The copy I have was published in 2000 and so reading it now there are some parts that seem a little dated; you can tell the internet was a young thing. However overall it is full to overflowing with good advice and solid suggestions.
