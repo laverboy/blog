@@ -2,6 +2,7 @@
 title: "Think! About Your Work"
 date: 2021-03-24T08:38:21Z
 draft: false
+summary: Part 2 in a series on "The Pragmatic Programmer". Too often we do work on autopilot when really we should be thinking, actively and continuously. How do we start to do something that feels so fundamental?
 ---
 
 I recently re-discovered "The Pragmatic Programmer". I remember reading this as an early software engineer and being really motivated to step up my game. The copy I have was published in 2000 and so reading it now there are some parts that seem a little dated; you can tell the internet was a young thing. However overall it is full to overflowing with good advice and solid suggestions.
