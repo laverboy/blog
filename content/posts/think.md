@@ -5,9 +5,9 @@ draft: false
 summary: Part 2 in a series on "The Pragmatic Programmer". Too often we do work on autopilot when really we should be thinking, actively and continuously. How do we start to do something that feels so fundamental?
 ---
 
-I recently re-discovered "The Pragmatic Programmer". I remember reading this as an early software engineer and being really motivated to step up my game. The copy I have was published in 2000 and so reading it now there are some parts that seem a little dated; you can tell the internet was a young thing. However overall it is full to overflowing with good advice and solid suggestions.
+*I recently re-discovered "The Pragmatic Programmer". I remember reading this as an early software engineer and being really motivated to step up my game. The copy I have was published in 2000 and so reading it now there are some parts that seem a little dated; you can tell the internet was a young thing. However overall it is full to overflowing with good advice and solid suggestions.*
 
-I thought I might go through the first handful of 'tips' (there are 70 in total) and eek out my thoughts around them and see if there are some new things to learn or to re-learn.
+*I thought I might go through the first handful of 'tips' (there are 70 in total) and eek out my thoughts around them and see if there are some new things to learn or to re-learn.*
 
 ------
 
