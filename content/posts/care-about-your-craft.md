@@ -29,7 +29,9 @@ However caring about your craft should be indipendant of motivation or inspirita
 
 Caring about your craft is not something that is teachable. In some ways you either care about it or you don't. But if you are reading this, if you are currently a programmer of any kind, then I think you probably do care. But maybe you've forgotten.
 
-So what can we do to restore that drive, that care for our craft? Well I would suggest that you pick something, something small, and start doing it. Here are some suggestions:
+So what can we do to restore that drive, that care for our craft? Well I would suggest that the route to restoring any love is through small steps. Pick something, anything really, and start doing it. Then that one thing should lead to others and so-on.
+
+Hopefully something small has sprung to mind but if not here are some suggestions:
 
 - learn some new keyboard shortcuts for the tool you are using
 - learn about code linters and how to apply them to code you have written
@@ -37,6 +39,6 @@ So what can we do to restore that drive, that care for our craft? Well I would s
 - decide to ask more questions at work: why are we doing this? how does that work? how do other teams do this?
 - look back at the last code you wrote and see if you can improve it
 
-It doesn't have to be something big, but each of these items will hopefully trigger further interest. For now just take the first step.
+It doesn't have to be something big, but each of these items will hopefully trigger further interest. 
 
-Dan Pink in his book "Drive" argues that what really motivates people is doing something because they love it.
+For now just take the first step.
