@@ -47,6 +47,6 @@ If you do get stuck on tasks that are just dull, repetitive and/or mindless then
 
 ### Practice
 
-We all know the things that take practice: riding a bike, a sport, learning a musical instrument, but for some reason there a whole bunch of other things that we think we should just be able to do, like: talking to people, writing, thinking. It's just not true though unfortunately. We need to practice.
+We all know the things that take practice: riding a bike, a sport, learning a musical instrument, but for some reason there are a whole bunch of other things that we think we should just be able to do, like: talking to people, writing, thinking. It's just not true though, unfortunately. We need to practice.
 
 So what are you going to do today to practice active thinking whilst you work?
