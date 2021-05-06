@@ -29,7 +29,7 @@ The horizon always looks daunting, the sheer amount of things that we think we h
 
 ### Something is better than nothing
 
-The greatest danger is that the size of the job at hand leads to inaction. So lets reduce the scope of the task to just the next step. What are you going to do next to move towards being a more active thinker? Take some time when you are not at work to remember the times today when you just ran on autopilot. Remember the meetings you were in where you contributed nothing, where you barely listened to what was being said. Just by spotting these situations you make it more likely that next time you will be more aware.
+The greatest danger is that the size of the job at hand leads to inaction. So lets reduce the scope of the task to just the next step. What are you going to do next to move towards being a more active thinker? Think about your last day at work and try to remember the times when you just ran on autopilot; the meetings you were in where you contributed nothing, where you barely listened to what was being said. Just by spotting these situations you make it more likely that next time you will be more aware.
 
 Now what are some things that you can put in place to stop you? I'm sure you can think of some but here are some suggestions:
 
@@ -49,4 +49,4 @@ If you do get stuck on tasks that are just dull, repetitive and/or mindless then
 
 We all know the things that take practice: riding a bike, a sport, learning a musical instrument, but for some reason there are a whole bunch of other things that we think we should just be able to do, like: talking to people, writing, thinking. It's just not true though, unfortunately. We need to practice.
 
-So what are you going to do today to practice active thinking whilst you work?
+So find the things that help you maintain engagement and practice them. Today what are you going to do to practice active thinking whilst you work?
